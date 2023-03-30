@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This is a dummy organization for containing repositories of my Java-Maven framewok.
+This is a dummy organization for containing repositories of my Java-Maven framework.
 
 By [Krumuvecis](https://github.com/Krumuvecis)
 
