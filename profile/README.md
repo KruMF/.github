@@ -6,7 +6,7 @@ This is a dummy organization for containing repositories of my Java-Maven framew
 
 By [Krumuvecis](https://github.com/Krumuvecis)
 
-[User manual](../manual.md).
+[User manual](../master/manual.md).
 
 
 ## Release status
