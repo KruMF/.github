@@ -6,12 +6,9 @@ This is a dummy organization for containing repositories of my Java-Maven framew
 
 By [Krumuvecis](https://github.com/Krumuvecis)
 
+[User manual](../manual.md).
+
 
 ## Release status
 
 See [jitpack-github-monitor](https://github.com/KruMF/jitpack-github-monitor) for status of releases on JitPack.
-
-
-## Test image
-
-![image](../images/image.png)
